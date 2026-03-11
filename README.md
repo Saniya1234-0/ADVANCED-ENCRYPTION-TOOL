@@ -1,3 +1,4 @@
+
 # ADVANCED-ENCRYPTION-TOOL
 
 COMPANY NAME : CODTECH IT SOLUTIONS
@@ -37,3 +38,7 @@ Restore: Select the .enc file and provide the original password to recover your 
 [x] Robustness: Handles file I/O errors and incorrect password attempts gracefully.
 [x] Advanced Algorithms: Implementation of NIST-approved AES-256-GCM.
 [x] User-Friendly: Fully functional GUI with clear feedback messages.
+
+<img width="632" height="771" alt="Image" src="https://github.com/user-attachments/assets/13eccc28-4643-43b4-a7a7-f390f0593153" />
+
+<img width="642" height="769" alt="Image" src="https://github.com/user-attachments/assets/d3649310-5d57-42f9-828c-4676501178a9" />
